@@ -1,0 +1,88 @@
+# Learning Notes
+
+## Linux Commands
+
+* `ls` - List files and directories.
+* `cd` - Change directory.
+* `cat` - Display contents of a file.
+* `pwd` - Print current working directory.
+* `whoami` - Display current user.
+* `echo` - Print text to terminal.
+* `find` - Search for files and directories.
+* `grep` - Search for text within files.
+* `grep -r` - Search recursively through files and directories.
+
+## Linux Operators
+
+* `&` - Run a command in the background.
+* `&&` - Execute the next command only if the previous command succeeds.
+* `>` - Redirect output and overwrite a file.
+* `>>` - Append output to a file without overwriting existing content.
+
+## DNS Records
+
+* `A` - Maps a domain name to an IPv4 address.
+* `AAAA` - Maps a domain name to an IPv6 address.
+* `MX` - Handles email routing.
+* `CNAME` - Creates an alias for another domain.
+* `NS` - Specifies authoritative name servers.
+* `TXT` - Stores verification and security-related information.
+* `SOA` - Contains administrative information about the DNS zone.
+
+## HTTP Methods
+
+* `GET` - Retrieve information from a server.
+* `POST` - Submit data to a server.
+* `PUT` - Create or update data on a server.
+* `DELETE` - Remove data from a server.
+
+## HTTP Status Codes
+
+* `100-199` - Informational responses.
+* `200-299` - Successful responses.
+* `300-399` - Redirection responses.
+* `400-499` - Client-side errors.
+* `500-599` - Server-side errors.
+
+## Common Request Headers
+
+* Host
+* User-Agent
+* Content-Length
+* Accept-Encoding
+* Cookie
+
+## Common Response Headers
+
+* Set-Cookie
+* Cache-Control
+* Content-Type
+* Content-Encoding
+
+## Web Technologies
+
+### HTML
+
+* Used to structure web pages.
+* Common elements:
+
+  * `<html>`
+  * `<head>`
+  * `<body>`
+  * `<h1>`
+  * `<p>`
+  * `<img>`
+
+### CSS
+
+* Used to style and design web pages.
+
+### JavaScript
+
+* Adds functionality and interactivity to web pages.
+
+Example:
+
+```javascript
+document.getElementById("demo").innerHTML = "Hello World";
+```
