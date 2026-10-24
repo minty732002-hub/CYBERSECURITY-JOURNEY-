@@ -219,7 +219,5 @@ When inspecting DNS packets in Wireshark, the query and response should be consi
 - Interpret extracted values in context rather than assuming they are malicious.
 - Understand what each part of a command pipeline contributes to the result.
 
-## 5. Investigation Limitations
 
-These exercises focused on extracting and summarizing fields from packet captures. The observations documented here do not, by themselves, establish that the traffic was malicious.
 
