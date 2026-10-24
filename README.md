@@ -223,8 +223,3 @@ When inspecting DNS packets in Wireshark, the query and response should be consi
 
 These exercises focused on extracting and summarizing fields from packet captures. The observations documented here do not, by themselves, establish that the traffic was malicious.
 
-Further conclusions would require additional evidence and investigation of the relevant packets and their surrounding context.
-
----
-
-*This repository documents practical learning and observations from HTTP and DNS packet analysis using TShark and Linux command-line tools.*
